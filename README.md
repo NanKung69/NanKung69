@@ -1,6 +1,6 @@
 <!-- หัวข้อแบนเนอร์แสดงชื่อโปรไฟล์ (ใช้ dynamic capsule render ที่มีลูกเล่นคลื่นแอนิเมชัน) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,20&height=220&section=header&text=NanKung69&fontSize=70&fontColor=06b6d4&animation=twinkling" alt="NanKung69 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,20&height=220&section=header&text=NanKung&fontSize=70&fontColor=06b6d4&animation=twinkling" alt="NanKung69 Banner" />
 </p>
 
 <p align="center">
