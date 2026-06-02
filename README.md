@@ -33,6 +33,14 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML5
     </td>
@@ -63,10 +71,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NanKung69&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="NanKung69's GitHub stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=NanKung69&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="NanKung69's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanKung69&layout=compact&theme=tokyonight&locale=en&hide_border=true&langs_count=5" alt="Top Langs" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NanKung69&layout=compact&theme=tokyonight&locale=en&hide_border=true&langs_count=5" alt="Top Langs" />
   </a>
 </p>
 
